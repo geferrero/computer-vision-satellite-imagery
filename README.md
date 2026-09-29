@@ -153,3 +153,10 @@ Increasing the resolution was the most decisive factor (over architectural chang
 - In **classification**, CNNs structurally outperform dense networks; *transfer learning* (ResNet50V2) gives the best result, although the improvement over training from scratch is modest (+1.1%), confirming the specificity of the satellite domain relative to ImageNet.
 - In **detection**, **single-stage models (YOLOv8)** proved more viable and effective than Faster R-CNN under the hardware constraints. **Input resolution** had more impact than architectural changes.
 - The *Bus* and *Truck* classes remain the most difficult, due to their small size and the dataset's strong imbalance.
+
+## Project Authors
+
+This project was developed by:
+- Graciela Ezcurra Ferrero
+- David Sulleiro Albi
+- Alberto García García
